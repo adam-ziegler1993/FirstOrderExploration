@@ -1,0 +1,77 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+  }
+
+  /* 3D background */
+  body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    position: relative;
+  }
+ 
+  
+
+  #oil-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+
+  /* Hero Section  */
+  .jumbotron {
+    background-image: radial-gradient(circle at center, #a70000, #000000);
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    
+    text-align: center;
+    padding: 50px 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .blockquote {
+    font-size: 1.25rem;
+  }
+  
+  /* Testimonial Section */
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 20px;
+    height: 20px;
+  }
+  
+.carousel-inner {
+    width: 80%;
+    margin: auto;
+}
+
+/* Background Overlay */
+.content-container {
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+  }
+
+  /* Color scheme */
+  .red {
+    color: #FF0000;
+  }
+  
+  .black {
+    color: #000000;
+  }
+  
+  .white {
+    color: #FFFFFF;
+  }
+  
