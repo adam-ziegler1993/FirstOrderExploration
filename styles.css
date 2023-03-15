@@ -31,7 +31,7 @@ body {
     align-items: center;
     padding: 3rem;
     text-align: center;
-    background-image: url('images/home.jpg');
+    background-image: url('/images/home.jpg');
     background-size: cover;
     background-position: center;
   }
