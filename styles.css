@@ -50,7 +50,7 @@ body {
 
 /* Cover Image */
 .cover-image {
-    background-image: url('Home.jpg');
+    background-image: url('images/Home.jpg');
     background-size: cover;
     background-position: center;
 }
