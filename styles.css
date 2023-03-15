@@ -49,6 +49,13 @@ body {
     padding: 0.8rem 2rem;
   }
 
+ /* Cover Image  */
+  .cover-image {
+    background-image: url('images/home.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
   /* Problem-Solution  */
   .problem-solution {
     background-color: black;
